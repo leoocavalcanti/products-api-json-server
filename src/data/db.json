@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "Mouse",
+      "price": "100",
+      "id": 1
+    },
+    {
+      "name": "Teclado",
+      "price": "250",
+      "id": 2
+    },
+    {
+      "name": "Notebook",
+      "price": "2250",
+      "id": 3
+    },
+    {
+      "name": "Cadeira Gamer",
+      "price": "1240",
+      "id": 4
+    },
+    {
+      "name": "Monitor 144hz",
+      "price": "1800",
+      "id": 5
+    },
+    {
+      "name": "Headset",
+      "price": "200",
+      "id": 6
+    },
+    {
+      "name": "Gabinete",
+      "price": "330",
+      "id": 7
+    },
+    {
+      "name": "Processador",
+      "price": "1700",
+      "id": 8
+    },
+    {
+      "name": "Placa de vídeo GTX",
+      "price": "2430",
+      "id": 9
+    },
+    {
+      "name": "Mousepad",
+      "price": "40",
+      "id": 10
+    }
+  ]
+}
